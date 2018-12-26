@@ -16,15 +16,6 @@
 			"inArguments": [
 				{
 						"ContactKey": "{{Contact.Defalut.ContactKey}}"
-				},
-				{
-						"Email": "{{InteractionDefaults.Email}}"
-				},
-				{
-						"FirstName": "{{Contact.Attribute.jb_ca_001.FirstName}}"
-				},
-				{
-						"LastName": "{{Contact.Attribute.jb_ca_001.LastName}}"
 				}
 							],
 			"outArguments": [
